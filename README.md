@@ -5,8 +5,8 @@ A java built text editor project.
 TO use make sure you have jdk installed.
 
 =====================
-Features : (The Eye Catchers apart from the usual stuff !!)
+<b>Features</b> : <i>(The Eye Catchers apart from the usual stuff !!)</i>
 <br/>1) Text Prediction
-2) Spell Checker
-3) Google Drive Integration (alpha)
-4) TTS
+<br/>2) Spell Checker
+<br/>3) Google Drive Integration (alpha)
+<br/>4) TTS
