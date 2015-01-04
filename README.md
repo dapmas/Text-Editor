@@ -10,3 +10,4 @@ TO use make sure you have jdk installed.
 <br/>2) Spell Checker
 <br/>3) Google Drive Integration (alpha)
 <br/>4) TTS
+<br/><br/> and other usual stuff like undo/redo, wordwrap, font family,weight etc..
